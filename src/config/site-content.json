@@ -64,15 +64,5 @@
 		}
 	],
 	"clockShowSeconds": false,
-	"summaryInContent": false,
-	"isCachePem": false,
-	"hideEditButton": false,
-	"enableCategories": true,
-	"currentHatIndex": 3,
-	"hatFlipped": false,
-	"enableChristmas": true,
-	"beian": {
-		"text": "",
-		"link": ""
-	}
+	"summaryInContent": false
 }
