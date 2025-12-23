@@ -44,7 +44,7 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/",
+			"value": "https://github.com",
 			"label": "Github",
 			"order": 3
 		},
